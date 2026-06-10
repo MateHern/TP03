@@ -1,7 +1,10 @@
 ﻿
-@{
-    ViewData["Title"] = "Juego del Ahorcado";
-}
+<Title>Juego Del Ahorcado</title>
 
 <h1>¡Bienvenido al Ahorcado!</h1>
-<p>La palabra secreta para usar @ViewBag.PalabraSecreta</p>
+<p>La palabra secreta para usar @ViewBag.PalabraSecreta
+El juego consta de 10 intentos y vos vas a tener que adivinar la palabra a partir de tirar letras</p>
+
+<input type="string" name="NumeroPalabraSecreta" value="@ViewBag.PalabraSecreta" id="PalabraSec">
+<p id="Guion"> </p>
+<button id="Actualizar" onclick ="Cambiar_()"> enviar </button>

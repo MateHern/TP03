@@ -118,9 +118,7 @@ C:\Users\49979691\Downloads\tp 03\TP03\obj\Debug\net9.0\rjsmcshtml.dswa.cache.js
 C:\Users\49979691\Downloads\tp 03\TP03\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\49979691\Downloads\tp 03\TP03\obj\Debug\net9.0\scopedcss\bundle\Tp03Ahorcado.styles.css
 C:\Users\49979691\Downloads\tp 03\TP03\obj\Debug\net9.0\scopedcss\projectbundle\Tp03Ahorcado.bundle.scp.css
-C:\Users\49979691\Downloads\tp 03\TP03\obj\Debug\net9.0\compressed\oxuvilx2ki-b9sayid5wm.gz
 C:\Users\49979691\Downloads\tp 03\TP03\obj\Debug\net9.0\compressed\9k5krox4gh-61n19gt1b8.gz
-C:\Users\49979691\Downloads\tp 03\TP03\obj\Debug\net9.0\compressed\n5ppd1fpxa-xtxxf3hu2r.gz
 C:\Users\49979691\Downloads\tp 03\TP03\obj\Debug\net9.0\compressed\1114273z4v-t1cqhe9u97.gz
 C:\Users\49979691\Downloads\tp 03\TP03\obj\Debug\net9.0\compressed\jldbqchhbs-c2jlpeoesf.gz
 C:\Users\49979691\Downloads\tp 03\TP03\obj\Debug\net9.0\compressed\fzl134tv3q-sejl45xvog.gz
@@ -191,3 +189,5 @@ C:\Users\49979691\Downloads\tp 03\TP03\obj\Debug\net9.0\refint\Tp03Ahorcado.dll
 C:\Users\49979691\Downloads\tp 03\TP03\obj\Debug\net9.0\Tp03Ahorcado.pdb
 C:\Users\49979691\Downloads\tp 03\TP03\obj\Debug\net9.0\Tp03Ahorcado.genruntimeconfig.cache
 C:\Users\49979691\Downloads\tp 03\TP03\obj\Debug\net9.0\ref\Tp03Ahorcado.dll
+C:\Users\49979691\Downloads\tp 03\TP03\obj\Debug\net9.0\compressed\n5ppd1fpxa-lsah74x1oo.gz
+C:\Users\49979691\Downloads\tp 03\TP03\obj\Debug\net9.0\compressed\oxuvilx2ki-29e5e6fdk1.gz

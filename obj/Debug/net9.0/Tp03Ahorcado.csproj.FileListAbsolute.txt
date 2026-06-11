@@ -286,5 +286,5 @@ C:\Users\49979691\Downloads\Tp\TP03\obj\Debug\net9.0\refint\Tp03Ahorcado.dll
 C:\Users\49979691\Downloads\Tp\TP03\obj\Debug\net9.0\Tp03Ahorcado.pdb
 C:\Users\49979691\Downloads\Tp\TP03\obj\Debug\net9.0\Tp03Ahorcado.genruntimeconfig.cache
 C:\Users\49979691\Downloads\Tp\TP03\obj\Debug\net9.0\ref\Tp03Ahorcado.dll
-C:\Users\49979691\Downloads\Tp\TP03\obj\Debug\net9.0\compressed\oxuvilx2ki-sqxj8nnko8.gz
 C:\Users\49979691\Downloads\Tp\TP03\obj\Debug\net9.0\compressed\n5ppd1fpxa-r939o65zys.gz
+C:\Users\49979691\Downloads\Tp\TP03\obj\Debug\net9.0\compressed\oxuvilx2ki-xdwq0l65pf.gz
